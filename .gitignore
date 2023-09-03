@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+/src
+gulpfile.js
+*.sql
+notas.txt
+package-lock.json
+composer.lock
+.env
